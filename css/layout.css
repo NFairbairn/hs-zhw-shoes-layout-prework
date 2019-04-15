@@ -23,11 +23,6 @@
 }
 
 /* Posititoning Classes */
-#main_block {
-  height: 40%;
-  width: 40%;
-}
-
-.row_2 {
-  column-count: 2;
+#row_2 {
+  column-count: 3;
 }
