@@ -27,3 +27,7 @@
   height: 40%;
   width: 40%;
 }
+
+.row_2 {
+  column-count: 2;
+}
